@@ -1,0 +1,6 @@
+{
+    "PORT":"2000",
+    "mongoUri":"mongodb+srv://Mike:Qq123456@cluster0.m1lmz.azure.mongodb.net/mongop",
+    "jwtSecret":"Mike gureev",
+    "baseUrl":"http://localhost:2000"
+}
